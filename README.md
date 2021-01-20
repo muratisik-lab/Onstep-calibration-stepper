@@ -1,7 +1,7 @@
 # Onstep-calibration-stepper
-OnStep is my computer controlled stepper motor goto system for Equatorial and Alt/Az mounts. The easy to work with Arduino based code runs on several popular microcontrollers enabling telescope control from a wide range of popular astronomy software. More information on Onstep is available on https://onstep.groups.io/g/main/wiki.
+OnStep is a computer controlled stepper motor goto system for Equatorial and Alt/Az mounts. The easy to work with Arduino based code runs on several popular microcontrollers enabling telescope control from a wide range of popular astronomy software. More information on Onstep is available on https://onstep.groups.io/g/main/wiki.
 
-This is a simple Arduino sketch that can be used to perform exact number of microsteps on an Onstep hardware. This tool is is completely independent from Onstep code.
+This is a simple Arduino sketch that can be used to perform exact number of microsteps on an Onstep hardware. This tool is completely independent from Onstep code.
 It is intended to be programmed on your Arduino-based telescope control hardware to measure key parameters on the mechanics of your telescope.
 
 Instructions:

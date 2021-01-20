@@ -15,6 +15,7 @@ Instructions:
       * ">> A-nnnn" (followed by ENTER): advance ALTITUDE motor by nnnn microsteps in the negative direction
       * ">> Z+nnnn" (followed by ENTER): advance AZIMUTH motor by nnnn microsteps in the positive direction
       * ">> Z-nnnn" (followed by ENTER): advance AZIMUTH motor by nnnn microsteps in the negative direction
+        
         maximum value of nnnn is currently limited to 9999 microsteps, you can enter consecutive commands to achieve larger number of microsteps
       
 The method to measure backlash in any axis is as follows:
